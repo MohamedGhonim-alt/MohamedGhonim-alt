@@ -1,15 +1,22 @@
-### Hi there, I'm Mohamed Ghonim 👋
+<h1 align="center">Hi there, I'm Mohamed Ghonim 👋</h1>
+<h3 align="center">Cybersecurity Learner & Communications Engineer</h3>
 
-🔭 **Cybersecurity Enthusiast & Network Engineering Graduate**  
-🛡️ Focused on Ethical Hacking, Penetration Testing, and Security Automation.
-
-- 🌱 Currently exploring advanced network security, vulnerability assessment, and threat analysis.
-- 💻 Passionate about building robust security tools using Python and Bash scripting.
-- 💬 Let's connect and build a secure digital future together!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedGhonim-alt&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
-### 🛠️ Technical Toolkit
-* **Security Tools:** Nmap, Wireshark, OpenVAS, Metasploit, Hydra.
-* **Platforms & Labs:** TryHackMe, Kali Linux (VMware).
-* **Languages:** Python, Bash .
+### 🛡️ About Me
+- 🔭 **Focusing on:** Ethical Hacking, Penetration Testing, and Security Automation.
+- 🎓 **Background:** Communications and Electronics Engineering graduate.
+- 💻 **Environments & Tools:** Kali Linux (VMware), Nmap, Wireshark, Metasploit, OpenVAS.
+- 🐍 **Scripting & Automation:** Python & Bash scripting.
+
+---
+
+### 📊 GitHub Stats & Skills
+```text
+[+] Status: Active Learner & CTF Player
+[+] Platforms: TryHackMe | Hack The Box
+[+] Mission: Building a secure digital future, one line of code at a time.
