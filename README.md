@@ -7,15 +7,3 @@
 </p>
 
 ---
-
-```text
-$ whoami
-> mohamed@ghonim-alt:~# Penetration Tester & Security Learner
-> ./initialize.sh --background
-> [Loaded] Communications and Electronics Engineering Graduate
-$ uname -a
-> KaliLinux-Workstation 6.8-amd64
-$ cat /skills/focus.txt
-> Penetration Testing | Ethical Hacking | Network Security | Python & Bash
-$ status --active
-> Platform: TryHackMe & Hack The Box | Ready for action.
