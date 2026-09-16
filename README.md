@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Mohamed Ghonim 👋
 
-<!--
-**MohamedGhonim-alt/MohamedGhonim-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Cybersecurity Enthusiast & Network Engineering Graduate**  
+🛡️ Focused on Ethical Hacking, Penetration Testing, and Security Automation.
 
-Here are some ideas to get you started:
+- 🌱 Currently exploring advanced network security, vulnerability assessment, and threat analysis.
+- 💻 Passionate about building robust security tools using Python and Bash scripting.
+- 💬 Let's connect and build a secure digital future together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Toolkit
+* **Security Tools:** Nmap, Wireshark, OpenVAS, Metasploit, Hydra.
+* **Platforms & Labs:** TryHackMe, Kali Linux (VMware).
+* **Languages:** Python, Bash .
